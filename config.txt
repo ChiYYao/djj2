@@ -45,5 +45,4 @@
 "color_birthday1":                "",          # 生日1字体颜色
 "color_birthday2":                "",          # 生日2字体颜色
 "color_commemoration_day1":       "",          # 纪念日1字体颜色
-"color_commemoration_day2":       "",          # 纪念日2字体颜色
 }
